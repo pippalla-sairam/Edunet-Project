@@ -44,27 +44,3 @@ This project demonstrates a **basic steganography technique** that allows users 
    ```  
 
 ---
-
-## **Example Usage**  
-### **Encryption Process**  
-```plaintext
-Enter secret message: Hello World!
-Enter a passcode: 1234
-(Encrypted image is saved as "encryptedImage.jpg")
-```  
-
-### **Decryption Process**  
-```plaintext
-Enter passcode for Decryption: 1234
-Decryption message: Hello World!
-```  
-
----
-
-## **Future Scope**  
-🔹 Support for **larger messages** using advanced encoding  
-🔹 **AES encryption** for extra security  
-🔹 A **GUI-based interface** for easy use  
-🔹 Improved **image processing techniques** for better efficiency  
-
----
