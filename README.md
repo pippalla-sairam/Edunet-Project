@@ -6,10 +6,10 @@ This project demonstrates a **basic steganography technique** that allows users 
 ---
 
 ## **Features**  
-✅ Hide a secret message inside an image  
-✅ Secure message retrieval using a passcode  
-✅ Uses pixel modification for data hiding  
-✅ Works with any image format supported by OpenCV  
+Hide a secret message inside an image  
+Secure message retrieval using a passcode  
+Uses pixel modification for data hiding  
+Works with any image format supported by OpenCV  
 
 ---
 
